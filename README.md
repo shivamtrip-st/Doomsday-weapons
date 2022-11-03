@@ -1,2 +1,1 @@
-# Doomsday-weapons
-Dooms day or weapons of mass destruction (nuclear war)
+# DOOMS DAY WEAPONS ,NUCLEAR WEAPONS INFORMATION ALONG WITH COUNTRY .
