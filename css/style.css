@@ -361,15 +361,15 @@ footer ul li a:hover {
 
 
 .bg-m51 {
-  background-image: url('../imgS/m51-missile-nucleaire.jpg');
+  background-image: url('../imgs/m51-missile-nucleaire.jpg');
 }
 .bg-df41{
-  background-image: url('../imgS/DF-41.jpg');
+  background-image: url('../imgs/DF-41.jpg');
 }
 .bg-agni{
-  background-image: url('../imgS/Agni5_ICMB.jpg');
+  background-image: url('../imgs/Agni5_ICMB.jpg');
 }
-.bg-hwasong{background-image: url('../imgS/EYU3EmVXgAUnRyo.webp');
+.bg-hwasong{background-image: url('../imgs/EYU3EmVXgAUnRyo.webp');
 }
 
 .section-animate {
